@@ -12,7 +12,7 @@ export default function PortfolioNav() {
           <Nav.Link href="#web-development">Web Development</Nav.Link>
           <Nav.Link href="#engineering">Engineering</Nav.Link>
           <Nav.Link href="#resume">Resume</Nav.Link>
-          <Nav.Link href="#about">Contact</Nav.Link>
+          <Nav.Link href="/">Contact</Nav.Link>
         </Nav>
       </Navbar.Collapse>
     </Navbar>

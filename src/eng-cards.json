@@ -7,9 +7,9 @@
       "description": "For my BYU Capstone project, I worked with a team of five other graduating engineers. Our team was sponsered by L3 Technologies and tasked with making an autonomous system that could point to a given latitude, longitude, and azimuth with a high degree of accuracy.",
       "url": "./assets/L3_Presentation.pdf",
       "github": {
-          "name": "View our solution",
+          "name": "Capstone solution",
           "link": "./assets/L3_Presentation.pdf",
-          "icon": "fas fa-cogs"
+          "icon": "fas fa-file-pdf"
       }
     },
     {
@@ -20,35 +20,35 @@
       "description": "Together with a team of three other engineers, we took first place in the Fall 2016 BYU Mechatronics Competition. The task was to make a robot that would find a ping pong ball dispenser, gather up to six ping pong balls, and shoot or place them in one of three randomly activated goals.",
       "url": "./assets/mechatronics_comp.mp4",
       "github": {
-          "name": "Watch winning compotition round",
+          "name": "Winning compotition round",
           "link": "./assets/mechatronics_comp.mp4",
-          "icon": "fas fa-cogs"
+          "icon": "fas fa-video"
       }
       },
       {
         "id": 3,
         "title": "Composites",
-        "src": "./assets/img/carbon_fiber_uke.jpg",
+        "src": "./assets/img/ukulele.png",
         "alt": "",
         "description": "While taking the Manufacturing Plastics Materials and Processing course, I designed and manufactured a custom tenor ukulele out of carbon fiber and fiberglass. I first made a three-dimensional computer model of a ukulele using SOLIDWORKS modeling software. While working on this project I developed skills in composites manufacturing, resin infusion, layup, and Solidworks modeling and drafting.",
-        "url": "https://spencercreer.github.io/weather_dashboard/",
+        "url": "./assets/ukulele_presentation.pdf",
         "github": {
-            "name": " weather_dashboard",
-            "link": "https://spencercreer.github.io/weather_dashboard/",
-            "icon": "fas fa-cogs"
+            "name": "Carbon Fiber Ukulele",
+            "link": "./assets/ukulele_presentation.pdf",
+            "icon": "fas fa-file-pdf"
         }
       },
       {
         "id": 4,
         "title": "Scientific Computing",
-        "src": "./assets/img/velocity.gif",
-        "alt": "Gif of Velocity application.",
+        "src": "./assets/img/matlab.gif",
+        "alt": "Gif of MATLAB Golf application.",
         "description": "I took an introduction to Scientific Computing coarse where I learned computer programming for engineers. This course focused on solving physical systems using numerical methods. While taking this class, I learned the fundamentals of C++ and MATLAB. One of our assignments was to make a golf game GUI with MATLAB.",
-        "url": "https://desolate-sands-49009.herokuapp.com/",
+        "url": "./assets/matlab_gui.mp4",
         "github": {
-            "name": " Velocity",
-            "link": "https://github.com/MVPeter/Velocity",
-            "icon": "fas fa-cogs"
+            "name": "MATLAB GUI Games",
+            "link": "./assets/matlab_gui.mp4",
+            "icon": "fas fa-video"
         }
       }
 ]

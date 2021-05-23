@@ -19,14 +19,16 @@ export default class Home extends Component {
     emailjs.sendForm('service_zwxq2o3', 'template_ex8lh6v', e.target, 'user_FV4fCPfLfkyufi2GtjyrI')
       .then((result) => {
         console.log(result.text);
+        alert('The eagle has landed! Your message was sent.');
       }, (error) => {
         console.log(error.text);
+        alert('Failure to launch! There was an error sending your message.')
       });
   }
 
   render() {
     return (
-      <div id="home">
+      <div>
         <PortfolioNav />
         <Container fluid className="bg-light mb-0">
           <Intro />
