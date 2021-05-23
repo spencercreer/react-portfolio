@@ -1,0 +1,16 @@
+#intro-title{
+    font-size: 8vw;
+}
+
+@media (min-width: 769px) {
+#intro-text{
+    font-size: 2vw;
+}
+}
+
+@media (max-width: 767px) {
+#intro-title {
+    font-size: 12vw;
+}
+}
+  

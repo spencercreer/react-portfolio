@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "title": "MVC Burgers",
+      "src": "./assets/img/burger.gif",
+      "alt": "Gif of MVC Burgers application.",
+      "description": "MVC Burgers is a SQL database of delicious burgers. You can make and devour virtual burgers with this Node.js application that is deployed to Heroku.",
+      "url": "https://mvc-burgers.herokuapp.com/",
+      "github": {
+          "name": " burger",
+          "link": "https://github.com/spencercreer/burger",
+          "icon": "fa fa-github link-git"
+      }
+    },
+    {
+        "id": 2,
+      "title": "Math.random",
+      "src": "./assets/img/math_random.gif",
+      "alt": "Gif of Math.random application.",
+      "description": "Heads or tails? This application uses JavaScript math functions to simulate random events like rolling dice or flipping a coin.",
+      "url": "https://spencercreer.github.io/math_random/",
+      "github": {
+          "name": " math_random",
+          "link": "https://github.com/spencercreer/math_random",
+          "icon": "fa fa-github link-git"
+      }
+      },
+      {
+        "id": 3,
+        "title": "API Weather App",
+        "src": "./assets/img/weather_dashboard.PNG",
+        "alt": "API weather application.",
+        "description": "This weather application calls the OpenWeather API and displays a current and five-day forecast for a searched city.",
+        "url": "https://spencercreer.github.io/weather_dashboard/",
+        "github": {
+            "name": " weather_dashboard",
+            "link": "https://spencercreer.github.io/weather_dashboard/",
+            "icon": "fa fa-github link-git"
+        }
+      },
+      {
+        "id": 4,
+        "title": "Velocity",
+        "src": "./assets/img/velocity.gif",
+        "alt": "Gif of Velocity application.",
+        "description": "Velocity is a full-stack application that helps users accomplish goals through planning tasks and tracking meals. This application uses Sequelize to create a SQL database of users, tasks, and meals.",
+        "url": "https://desolate-sands-49009.herokuapp.com/",
+        "github": {
+            "name": " Velocity",
+            "link": "https://github.com/MVPeter/Velocity",
+            "icon": "fa fa-github link-git"
+        }
+      },
+      {
+        "id": 5,
+        "title": "Decider Diner",
+        "src": "./assets/img/decider_diner.gif",
+        "alt": "Gif of Decider Diner application.",
+        "description": "Not sure what to eat for dinner? Decider Diner gives meal or restaraunt suggestions based on user responses. This mobile-friendly application calls the Spoonacular and Zomato APIs.",
+        "url": "https://spencercreer.github.io/Dine-Decider/",
+        "github": {
+            "name": " Dine-Decider",
+            "link": "https://github.com/spencercreer/Dine-Decider",
+            "icon": "fa fa-github link-git"
+        }
+      },
+      {
+        "id": 6,
+        "title": "Day Planner",
+        "src": "./assets/img/day_planner.gif",
+        "alt": "Gif of the day planner application.",
+        "description": "This daily planner saves hourly events to localStorage. It features a day and night mode which dynamically updates the css styling with the click of a button.",
+        "url": "https://spencercreer.github.io/day_planner/",
+        "github": {
+            "name": " day_planner",
+            "link": "https://github.com/spencercreer/day_planner",
+            "icon": "fa fa-github link-git"
+        }
+      },
+      {
+        "id": 7,
+        "title": "Coding Quiz",
+        "src": "./assets/img/JavaScript_Quiz.gif",
+        "alt": "Gif of the code quiz application.",
+        "description": "To test knowledge of JavaScript, I have created a code quiz. The quiz presents coding questions from a shuffled array and stores the user's score to local storage.",
+        "url": "https://github.com/spencercreer/code-quiz",
+        "github": {
+            "name": " code-quiz",
+            "link": "https://github.com/spencercreer/code-quiz",
+            "icon": "fa fa-github link-git"
+        }
+      }
+]
