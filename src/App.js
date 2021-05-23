@@ -9,7 +9,7 @@ import Resume from "./pages/Resume/Resume";
 
 export default function App() {
   return (
-    <Router basename='/react-portfolio'>
+    <Router basename='/'>
       <div>
         <Switch>
           <Route exact path={"/about"}>
