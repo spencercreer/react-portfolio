@@ -24,7 +24,7 @@ export default function App() {
           <Route exact path={"/resume"}>
             <Resume />
           </Route>
-          <Route exact path={["/", "/portfolio"]}>
+          <Route exact path={["/", "/home"]}>
             <Home />
           </Route>
         </Switch>

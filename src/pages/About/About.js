@@ -14,7 +14,7 @@ export default function About() {
                 </div>
                 <Row>
                     <Col lg={{ span: 6, offset: 3 }} className="mt-5">
-                        <div className="mx-5">
+                        <div className="mx-5 mb-5">
                             <h1 className="display-4">About Me</h1>
                             <p className="lead">I was born in Castro Valley, California to Brad and Michele Creer. I am the third of six children. At age seven, my family moved to Utah where I grew up.</p>
                             <p className="lead">From 2009 to 2011, I performed service for the Church of Jesus Christ of Latter-Day Saints in southern Germany, Austria, and Switzerland.  I learned the German language and gained a love for the German culture.</p>
