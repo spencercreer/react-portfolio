@@ -20,15 +20,15 @@ Repository: [https://github.com/spencercreer/portfolio](https://github.com/spenc
 
 Home page: 
 </br>
-<img src="./assets/img/about-me-page.PNG" alt="About me page" width= 30%> 
+<img src="./public/assets/img/about-me-page.PNG" alt="About me page" width= 30%> 
 
 Portfolio page: 
 </br>
-<img src="./assets/img/portfolio-page.PNG" alt="Portfolio page" width= 30%>
+<img src="./public/assets/img/portfolio-page.PNG" alt="Portfolio page" width= 30%>
 
 Contact form: 
 </br>
-<img src="./assets/img/contact.PNG" alt="Contact page" width= 30%> 
+<img src="./public/assets/img/contact.PNG" alt="Contact page" width= 30%> 
 
 ## Technologies
  * HTML
