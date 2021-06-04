@@ -1,7 +1,23 @@
 .link-git:hover{
     color: rgb(34,110,57);
-  }
+}
   
-  .link-in:hover{
+.link-in:hover{
     color: rgb(10,102,194);
-  }
+}
+
+#contact-title{
+  font-size: 6vw;
+}
+
+@media (min-width: 769px) {
+#contact-text{
+  font-size: 2vw;
+}
+}
+
+@media (max-width: 767px) {
+#contact-title {
+  font-size: 12vw;
+}
+}

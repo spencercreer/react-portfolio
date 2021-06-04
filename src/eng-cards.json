@@ -28,8 +28,8 @@
       {
         "id": 3,
         "title": "Composites",
-        "src": "./assets/img/ukulele.png",
-        "alt": "",
+        "src": "./assets/img/ukulele.PNG",
+        "alt": "Spencer's carbon fiber ukulele",
         "description": "While taking the Manufacturing Plastics Materials and Processing course, I designed and manufactured a custom tenor ukulele out of carbon fiber and fiberglass. I first made a three-dimensional computer model of a ukulele using SOLIDWORKS modeling software. While working on this project I developed skills in composites manufacturing, resin infusion, layup, and Solidworks modeling and drafting.",
         "url": "./assets/ukulele_presentation.pdf",
         "github": {

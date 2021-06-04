@@ -89,5 +89,18 @@
             "link": "https://github.com/spencercreer/code-quiz",
             "icon": "fa fa-github link-git"
         }
+      },
+      {
+        "id": 8,
+        "title": "Savvy",
+        "src": "./assets/img/savvy.gif",
+        "alt": "Gif of the Savvy Budget application.",
+        "description": "Saavy Budget is a NoSQL application built to inform users on personal finance principles.",
+        "url": "https://savvybudget.herokuapp.com/",
+        "github": {
+            "name": " Budget-App",
+            "link": "https://github.com/Jason-Jorgensen/Budget-App",
+            "icon": "fa fa-github link-git"
+        }
       }
 ]

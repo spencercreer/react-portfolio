@@ -50,9 +50,9 @@ export default class Home extends Component {
         </Container>
         <div id="contact" className="container mt-4">
           <div className="row">
-            <div className="col-md-9">
-              <h1 className="display-4 contact-title">Contact me.</h1>
-              <p className="lead mb-0">Connect with me through GitHub, or LinkedIn or send me a message at <a className="text-link" href="mailto:spencercreer@gmail.com" target="_blank">spencercreer@gmail.com</a> or through the following form.</p>
+            <div>
+              <h1 id="contact-title" className="display-4 contact-title px-4">Contact me.</h1>
+              <p id="contact-text" className="lead mb-0 px-4">Connect with me through GitHub, or LinkedIn or send me a message at <a className="text-link" href="mailto:spencercreer@gmail.com" target="_blank">spencercreer@gmail.com</a> or through the following form.</p>
             </div>
           </div>
           <div className="row">
