@@ -1,19 +1,6 @@
 [
     {
-      "id": 1,
-      "title": "MVC Burgers",
-      "src": "./assets/img/burger.gif",
-      "alt": "Gif of MVC Burgers application.",
-      "description": "MVC Burgers is a SQL database of delicious burgers. You can make and devour virtual burgers with this Node.js application that is deployed to Heroku.",
-      "url": "https://mvc-burgers.herokuapp.com/",
-      "github": {
-          "name": " burger",
-          "link": "https://github.com/spencercreer/burger",
-          "icon": "fa fa-github link-git"
-      }
-    },
-    {
-        "id": 2,
+        "id": 1,
       "title": "Math.random",
       "src": "./assets/img/math_random.gif",
       "alt": "Gif of Math.random application.",
@@ -24,6 +11,19 @@
           "link": "https://github.com/spencercreer/math_random",
           "icon": "fa fa-github link-git"
       }
+      },
+      {
+        "id": 2,
+        "title": "MVC Burgers",
+        "src": "./assets/img/burger.gif",
+        "alt": "Gif of MVC Burgers application.",
+        "description": "MVC Burgers is a SQL database of delicious burgers. You can make and devour virtual burgers with this Node.js application that is deployed to Heroku.",
+        "url": "https://mvc-burgers.herokuapp.com/",
+        "github": {
+            "name": " burger",
+            "link": "https://github.com/spencercreer/burger",
+            "icon": "fa fa-github link-git"
+        }
       },
       {
         "id": 3,
@@ -56,7 +56,7 @@
         "title": "Decider Diner",
         "src": "./assets/img/decider_diner.gif",
         "alt": "Gif of Decider Diner application.",
-        "description": "Not sure what to eat for dinner? Decider Diner gives meal or restaraunt suggestions based on user responses. This mobile-friendly application calls the Spoonacular and Zomato APIs.",
+        "description": "Not sure what to eat for dinner? Decider Diner gives meal or restaurant suggestions based on user responses. This mobile-friendly application calls the Spoonacular and Zomato APIs.",
         "url": "https://spencercreer.github.io/Dine-Decider/",
         "github": {
             "name": " Dine-Decider",
@@ -69,7 +69,7 @@
         "title": "Day Planner",
         "src": "./assets/img/day_planner.gif",
         "alt": "Gif of the day planner application.",
-        "description": "This daily planner saves hourly events to localStorage. It features a day and night mode which dynamically updates the css styling with the click of a button.",
+        "description": "This daily planner saves hourly events to localStorage. It features a day and night mode, which dynamically updates the css styling with the click of a button.",
         "url": "https://spencercreer.github.io/day_planner/",
         "github": {
             "name": " day_planner",
@@ -82,7 +82,7 @@
         "title": "Coding Quiz",
         "src": "./assets/img/JavaScript_Quiz.gif",
         "alt": "Gif of the code quiz application.",
-        "description": "To test knowledge of JavaScript, I have created a code quiz. The quiz presents coding questions from a shuffled array and stores the user's score to local storage.",
+        "description": "To test coding concepts, I created a coding quiz. The quiz presents coding questions from a shuffled array and stores the user's score to local storage.",
         "url": "https://github.com/spencercreer/code-quiz",
         "github": {
             "name": " code-quiz",
@@ -95,7 +95,7 @@
         "title": "Savvy",
         "src": "./assets/img/savvy.gif",
         "alt": "Gif of the Savvy Budget application.",
-        "description": "Saavy Budget is a NoSQL application built to inform users on personal finance principles.",
+        "description": "Savvy Budget is a NoSQL application built to inform users on personal finance principles.",
         "url": "https://savvybudget.herokuapp.com/",
         "github": {
             "name": " Budget-App",

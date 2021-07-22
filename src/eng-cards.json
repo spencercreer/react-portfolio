@@ -4,7 +4,7 @@
       "title": "Capstone",
       "src": "./assets/img/capstone.jpg",
       "alt": "The rover and base station of our capstone solution set up in a field.",
-      "description": "For my BYU Capstone project, I worked with a team of five other graduating engineers. Our team was sponsered by L3 Technologies and tasked with making an autonomous system that could point to a given latitude, longitude, and azimuth with a high degree of accuracy.",
+      "description": "For my BYU Capstone project, I worked with a team of five other graduating engineers. Our team was sponsored by L3 Technologies and tasked with making an autonomous system that could point to a given latitude, longitude, and azimuth with a high degree of accuracy.",
       "url": "./assets/L3_Presentation.pdf",
       "github": {
           "name": "Capstone solution",
@@ -17,7 +17,7 @@
       "title": "Mechatronics",
       "src": "./assets/img/mech_robot.png",
       "alt": "Spencer's mechatronics robot.",
-      "description": "Together with a team of three other engineers, we took first place in the Fall 2016 BYU Mechatronics Competition. The task was to make a robot that would find a ping pong ball dispenser, gather up to six ping pong balls, and shoot or place them in one of three randomly activated goals.",
+      "description": "As a team of three other engineers, we took first place in the Fall 2016 BYU Mechatronics Competition. The task was to make a robot that would find a ping pong ball dispenser, gather up to six ping pong balls, and shoot or place them in one of three randomly activated goals.",
       "url": "./assets/mechatronics_comp.mp4",
       "github": {
           "name": "Winning compotition round",
@@ -30,7 +30,7 @@
         "title": "Composites",
         "src": "./assets/img/ukulele.PNG",
         "alt": "Spencer's carbon fiber ukulele",
-        "description": "While taking the Manufacturing Plastics Materials and Processing course, I designed and manufactured a custom tenor ukulele out of carbon fiber and fiberglass. I first made a three-dimensional computer model of a ukulele using SOLIDWORKS modeling software. While working on this project I developed skills in composites manufacturing, resin infusion, layup, and Solidworks modeling and drafting.",
+        "description": "I designed and manufactured a custom tenor ukulele out of carbon fiber and fiberglass. I first made a three-dimensional computer model of a ukulele using SOLIDWORKS modeling software. While working on this project, I developed skills in composites manufacturing, resin infusion, layup, and Solidworks modeling and drafting.",
         "url": "./assets/ukulele_presentation.pdf",
         "github": {
             "name": "Carbon Fiber Ukulele",
@@ -43,7 +43,7 @@
         "title": "Scientific Computing",
         "src": "./assets/img/matlab.gif",
         "alt": "Gif of MATLAB Golf application.",
-        "description": "I took an introduction to Scientific Computing course where I learned computer programming for engineers. This course focused on solving physical systems using numerical methods. While taking this class, I learned the fundamentals of C++ and MATLAB. One of our assignments was to make a golf game GUI with MATLAB.",
+        "description": "In the Scientific Computing course, I learned computer programming for engineers. This course focused on solving physical systems using numerical methods. While taking this class, I learned the fundamentals of C++ and MATLAB. One of our assignments was to make a golf game GUI with MATLAB.",
         "url": "./assets/matlab_gui.mp4",
         "github": {
             "name": "MATLAB GUI Games",
