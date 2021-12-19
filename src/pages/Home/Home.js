@@ -69,29 +69,29 @@ export default class Home extends Component {
               </p>
             </div>
           </div>
-          <div class="row px-2">
-            <form id="contact-form" class="col-md-12 py-2 px-0" onSubmit={this.sendEmail}>
+          <div className="row px-2">
+            <form id="contact-form" className="col-md-12 py-2 px-0" onSubmit={this.sendEmail}>
               <input type="hidden" name="contact_number" />
-              <div class="form-row mb-1">
-                <div class="col">
-                  <input type="text" class="form-control" placeholder="First name" name="from_name" required />
+              <div className="form-row mb-1">
+                <div className="col">
+                  <input type="text" className="form-control" placeholder="First name" name="from_name" required />
                 </div>
-                <div class="col">
-                  <input type="text" class="form-control" placeholder="Last name" name="last-name" required />
-                </div>
-              </div>
-              <div class="form-row mb-1">
-                <div class="col">
-                  <input type="text" class="form-control" placeholder="Email" name="email" required />
+                <div className="col">
+                  <input type="text" className="form-control" placeholder="Last name" name="last-name" required />
                 </div>
               </div>
-              <div class="form-row">
-                <div class="col">
-                  <textarea rows="3" class="form-control" placeholder="Message" name="message" required></textarea>
+              <div className="form-row mb-1">
+                <div className="col">
+                  <input type="text" className="form-control" placeholder="Email" name="email" required />
                 </div>
               </div>
-              <div class="form-row mx-1 float-right">
-                <button type="submit" class="btn btn-dark btn-lg mt-1">Send</button>
+              <div className="form-row">
+                <div className="col">
+                  <textarea rows="3" className="form-control" placeholder="Message" name="message" required></textarea>
+                </div>
+              </div>
+              <div className="form-row mx-1 float-right">
+                <button type="submit" className="btn btn-dark btn-lg mt-1">Send</button>
               </div>
             </form>
           </div>
