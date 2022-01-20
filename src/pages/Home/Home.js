@@ -52,19 +52,19 @@ export default class Home extends Component {
           <div className="row">
             <div>
               <h1 id="contact-title" className="display-4 contact-title px-4">Contact me.</h1>
-              <p id="contact-text" className="lead mb-0 px-4">Connect with me through GitHub, or LinkedIn or send me a message at <a className="text-link" href="mailto:spencercreer@gmail.com" target="_blank">spencercreer@gmail.com</a> or through the following form.</p>
+              <p id="contact-text" className="lead mb-0 px-4">Connect with me through GitHub, or LinkedIn or send me a message at <a className="text-link" href="mailto:spencercreer@gmail.com" target="_blank" rel="noreferrer">spencercreer@gmail.com</a> or through the following form.</p>
             </div>
           </div>
           <div className="row">
             <div className="col-4 offset-2">
               <p className="text-center mt-4">
-                <a className="text-dark" href="https://github.com/spencercreer" target="_blank"><i
+                <a className="text-dark" href="https://github.com/spencercreer" target="_blank" rel="noreferrer"><i
                   className="fa fa-github link-git" style={{ fontSize: "72px" }}></i></a>
               </p>
             </div>
             <div className="col-4">
               <p className="text-center">
-                <a className="text-dark" href="https://www.linkedin.com/in/spencer-creer-023246109/" target="_blank"
+                <a className="text-dark" href="https://www.linkedin.com/in/spencer-creer-023246109/" target="_blank" rel="noreferrer"
                   style={{ fontSize: "72px" }}><i className="fa fa-linkedin-square link-in"></i></a>
               </p>
             </div>

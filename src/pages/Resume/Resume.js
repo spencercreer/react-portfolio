@@ -13,10 +13,10 @@ export default function Resume() {
                     <div className="row">
                         <div className="col-md-9">
                             <h1 className="display-4">Resume</h1>
-                            <a className="mb-0" href="mailto:spencercreer@gmail.com" target="_blank"> spencercreer@gmail.com</a>
-                            <p className="mb-0">Linked In: <a href="https://www.linkedin.com/in/spencer-creer-023246109/" target="_blank">Spencer Creer</a></p>
-                            <p className="mb-0">GitHub: <a href="https://github.com/spencercreer/" target="_blank">spencercreer</a></p>
-                            <p className="mb-3"><a className="mb-5" href="./assets/Resume.pdf" target="_blank">PDF Download</a></p>
+                            <a className="mb-0" href="mailto:spencercreer@gmail.com" target="_blank" rel="noreferrer"> spencercreer@gmail.com</a>
+                            <p className="mb-0">Linked In: <a href="https://www.linkedin.com/in/spencer-creer-023246109/" target="_blank" rel="noreferrer">Spencer Creer</a></p>
+                            <p className="mb-0">GitHub: <a href="https://github.com/spencercreer/" target="_blank" rel="noreferrer">spencercreer</a></p>
+                            <p className="mb-3"><a className="mb-5" href="./assets/Resume.pdf" target="_blank" rel="noreferrer">PDF Download</a></p>
                         </div>
                         <img id="profile-picture" className="rounded-circle col-md-3 mb-2 p-0 contact-image d-none d-md-block" src="./assets/img/headshot.jpg" alt="Spencer Creer's Profile Picture." />
                     </div>

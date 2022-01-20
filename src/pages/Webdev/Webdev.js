@@ -18,7 +18,7 @@ export default class Webdev extends Component {
           <Container>
             <h1 className="display-4">Web Development</h1>
             <p className="lead">I am passionate about making tools that solve problems, improve efficiency, or make life more enjoyable. I have found that a powerful way to do this is through software and web development.</p>
-            <p className="lead">This webpage contains links to several web applications that I have created. For more information on each application, and to view my full portfolio, checkout <a className="text-primary link-text" href="https://github.com/spencercreer" target="_blank">my GitHub</a> account.</p>
+            <p className="lead">This webpage contains links to several web applications that I have created. For more information on each application, and to view my full portfolio, checkout <a className="text-primary link-text" href="https://github.com/spencercreer" target="_blank" rel="noreferrer">my GitHub</a> account.</p>
             <CardColumns>
             {this.state.devCards.map(card => (
               <PortfolioCard

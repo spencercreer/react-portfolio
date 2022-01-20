@@ -6,12 +6,12 @@ export default function PortfolioCard(props) {
       <Card>
       <Card.Img variant="top" src={props.src} alt={props.alt} />
       <Card.Body className="p-0">
-        <a href={props.url} target="_blank"
+        <a href={props.url} target="_blank" rel="noreferrer"
           className="btn btn-dark btn-block btn-lg">{props.title}</a>
         <div className="p-3">
           <Card.Text className="mb-1">{props.description}
           </Card.Text>
-          <a className="text-primary link-text" href={props.link} target="_blank"><i className={props.icon}></i> {props.name}</a>
+          <a className="text-primary link-text" href={props.link} target="_blank" rel="noreferrer"><i className={props.icon}></i> {props.name}</a>
         </div>
       </Card.Body>
       </Card>
