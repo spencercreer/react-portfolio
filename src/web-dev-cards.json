@@ -30,7 +30,7 @@
         "title": "API Weather App",
         "src": "./assets/img/weather_dashboard.PNG",
         "alt": "API weather application.",
-        "description": "This weather application calls the OpenWeather API and displays a current and five-day forecast for a searched city.",
+        "description": "A React weather application that calls the OpenWeather API and displays a current and five-day forecast for a searched city.",
         "url": "https://spencercreer.github.io/weather_dashboard/",
         "github": {
             "name": " weather_dashboard",

@@ -13,23 +13,31 @@ export default function Resume() {
                     <div className="row">
                         <div className="col-md-9">
                             <h1 className="display-4">Resume</h1>
-                            <p className="mb-0 mt-3">4242 W. Old Orchard Ln. Cedar Hills, UT 84062</p>
-                            <p className="mb-0">(385) 292-6306</p>
                             <a className="mb-0" href="mailto:spencercreer@gmail.com" target="_blank"> spencercreer@gmail.com</a>
                             <p className="mb-0">Linked In: <a href="https://www.linkedin.com/in/spencer-creer-023246109/" target="_blank">Spencer Creer</a></p>
-                            <p className="mb-0">GitHub: <a href="https://www.linkedin.com/in/spencer-creer-023246109/" target="_blank">spencercreer</a></p>
-                            <p className="mb-3"><a className="mb-5" href="../assets/Resume.pdf" target="_blank">PDF Download</a></p>
+                            <p className="mb-0">GitHub: <a href="https://github.com/spencercreer/" target="_blank">spencercreer</a></p>
+                            <p className="mb-3"><a className="mb-5" href="./assets/Resume.pdf" target="_blank">PDF Download</a></p>
                         </div>
                         <img id="profile-picture" className="rounded-circle col-md-3 mb-2 p-0 contact-image d-none d-md-block" src="./assets/img/headshot.jpg" alt="Spencer Creer's Profile Picture." />
                     </div>
                         <h2 className="resume-heading">Overview</h2>
-                        <p>Full-stack web developer with experience in JavaScript, jQuery, Express, MySQL, and React. Mechanical engineer with a passion for product design and development. Top performing sales engineer with sales experience in the x-ray spectrometry, aerospace, devense, and medical industries. Proven buisness leader with excellent communication and team working skills</p>
+                        <p>Full-stack web developer highly proficient in JavaScript, jQuery, Express, Node.js, MySQL, and React. Mechanical engineer with a passion for product design and development. Top performing sales engineer with sales experience in the x-ray spectrometry, aerospace, devense, and medical industries. Proven buisness leader with excellent communication and team working skills</p>
                         <h2 className="resume-heading">Professional Experience</h2>
                         <div className="row">
-                            <i className="col-md-6 mb-0">Moxtek Inc., Orem, UT</i>
-                            <i className="col-md-6 mb-0 align-left-sm align-right-lg">July 2019 to current</i>
+                            <i className="col-md-6 mb-0">Sandhills Global, Scottsdale, AZ</i>
+                            <i className="col-md-6 mb-0 align-left-sm align-right-lg">November 2021 to current</i>
                         </div>
-                        <p className="mb-0"><strong>Sales Engineer II</strong></p>
+                        <p className="mb-0"><strong>Software Developer</strong></p>
+                        <ul>
+                            <li>Software developer for logistics and E-commerce development</li>
+                            <li>Full-stack developer for the FR8Star application</li>
+                            <li>Highly proficient in React JavaScript, Sequelize, and SQL</li>
+                        </ul>
+                        <div className="row">
+                            <i className="col-md-6 mb-0">Moxtek Inc., Orem, UT</i>
+                            <i className="col-md-6 mb-0 align-left-sm align-right-lg">July 2019 to November 2021</i>
+                        </div>
+                        <p className="mb-0"><strong>Application Engineer</strong></p>
                         <ul>
                             <li>Manage the European sales of tube and detector products for the x-ray spectrometry division</li>
                             <li>Maintain company website and improve its search engine optimization (SEO) using WordPress</li>
