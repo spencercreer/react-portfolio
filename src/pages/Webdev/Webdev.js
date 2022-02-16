@@ -27,7 +27,6 @@ export default class Webdev extends Component {
 
       return found
     });
-    // console.log(filteredList)
     this.setState({ filteredCards: filteredList })
     console.log(this.state.filteredCards)
   }
