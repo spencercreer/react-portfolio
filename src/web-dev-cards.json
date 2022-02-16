@@ -10,7 +10,8 @@
           "name": " math_random",
           "link": "https://github.com/spencercreer/math_random",
           "icon": "fa fa-github link-git"
-      }
+      },
+      "tags": ["JavaScript", "CSS"]
       },
       {
         "id": 2,
@@ -23,20 +24,22 @@
             "name": " burger",
             "link": "https://github.com/spencercreer/burger",
             "icon": "fa fa-github link-git"
-        }
+        },
+        "tags": ["SQL", "ORM"]
       },
       {
         "id": 3,
-        "title": "API Weather App",
+        "title": "Weather GraphQL",
         "src": "./assets/img/weather_dashboard.PNG",
-        "alt": "API weather application.",
-        "description": "A React weather application that calls the OpenWeather API and displays a current and five-day forecast for a searched city.",
-        "url": "https://spencercreer.github.io/weather_dashboard/",
+        "alt": "GraphQL weather application.",
+        "description": "A React weather application that calls the OpenWeather API using GraphQL and displays a current and five-day forecast for a searched city.",
+        "url": "https://explore-weather-graphql.herokuapp.com/",
         "github": {
-            "name": " weather_dashboard",
-            "link": "https://spencercreer.github.io/weather_dashboard/",
+            "name": " weather_graphql",
+            "link": "https://github.com/spencercreer/weather_graphql",
             "icon": "fa fa-github link-git"
-        }
+        },
+        "tags": ["API", "GraphQL", "React"]
       },
       {
         "id": 4,
@@ -49,7 +52,8 @@
             "name": " Velocity",
             "link": "https://github.com/MVPeter/Velocity",
             "icon": "fa fa-github link-git"
-        }
+        },
+        "tags": ["API", "SQL", "Handlebars"]
       },
       {
         "id": 5,
@@ -62,7 +66,8 @@
             "name": " Dine-Decider",
             "link": "https://github.com/spencercreer/Dine-Decider",
             "icon": "fa fa-github link-git"
-        }
+        },
+        "tags": ["API", "Bootstrap", "JavaScript"]
       },
       {
         "id": 6,
@@ -75,7 +80,8 @@
             "name": " day_planner",
             "link": "https://github.com/spencercreer/day_planner",
             "icon": "fa fa-github link-git"
-        }
+        },
+        "tags": ["LocalStorage", "jQuery", "CSS"]
       },
       {
         "id": 7,
@@ -88,7 +94,8 @@
             "name": " code-quiz",
             "link": "https://github.com/spencercreer/code-quiz",
             "icon": "fa fa-github link-git"
-        }
+        },
+        "tags": ["MySQL", "Sequelize", "JavaScript"]
       },
       {
         "id": 8,
@@ -101,6 +108,7 @@
             "name": " Budget-App",
             "link": "https://github.com/Jason-Jorgensen/Budget-App",
             "icon": "fa fa-github link-git"
-        }
+        },
+        "tags": ["MongoDB", "Mongoose", "React"]
       }
 ]

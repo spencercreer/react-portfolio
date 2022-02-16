@@ -18,7 +18,7 @@ export default function Resume() {
                             <p className="mb-0">GitHub: <a href="https://github.com/spencercreer/" target="_blank" rel="noreferrer">spencercreer</a></p>
                             <p className="mb-3"><a className="mb-5" href="./assets/Resume.pdf" target="_blank" rel="noreferrer">PDF Download</a></p>
                         </div>
-                        <img id="profile-picture" className="rounded-circle col-md-3 mb-2 p-0 contact-image d-none d-md-block" src="./assets/img/headshot.jpg" alt="Spencer Creer's Profile Picture." />
+                        <img id="profile-picture" className="rounded-circle col-md-3 mb-2 p-0 contact-image d-none d-md-block" src="./assets/img/headshot.jpg" alt="Spencer Creer headshot." />
                     </div>
                         <h2 className="resume-heading">Overview</h2>
                         <p>Full-stack web developer highly proficient in JavaScript, jQuery, Express, Node.js, MySQL, and React. Mechanical engineer with a passion for product design and development. Top performing sales engineer with sales experience in the x-ray spectrometry, aerospace, devense, and medical industries. Proven buisness leader with excellent communication and team working skills</p>
