@@ -11,7 +11,7 @@
           "link": "https://github.com/spencercreer/math_random",
           "icon": "fa fa-github link-git"
       },
-      "tags": ["JavaScript", "CSS"]
+      "tags": ["JavaScript", "CSS", "React"]
       },
       {
         "id": 2,
@@ -71,6 +71,20 @@
       },
       {
         "id": 6,
+        "title": "quizbase",
+        "src": "./assets/img/JavaScript_Quiz.gif",
+        "alt": "Gif of the code quiz application.",
+        "description": "To test coding concepts, I created a coding quiz. The quiz presents coding questions from a shuffled array and stores the user's score to local storage.",
+        "url": "https://qb-quizbase.herokuapp.com/",
+        "github": {
+            "name": " quizbase",
+            "link": "https://github.com/spencercreer/quizbase",
+            "icon": "fa fa-github link-git"
+        },
+        "tags": ["MySQL", "Sequelize", "JavaScript", "CSS", "HTML", "API", "RestAPI"]
+      },
+      {
+        "id": 7,
         "title": "Day Planner",
         "src": "./assets/img/day_planner.gif",
         "alt": "Gif of the day planner application.",
@@ -84,20 +98,6 @@
         "tags": ["LocalStorage", "jQuery", "CSS"]
       },
       {
-        "id": 7,
-        "title": "Coding Quiz",
-        "src": "./assets/img/JavaScript_Quiz.gif",
-        "alt": "Gif of the code quiz application.",
-        "description": "To test coding concepts, I created a coding quiz. The quiz presents coding questions from a shuffled array and stores the user's score to local storage.",
-        "url": "https://github.com/spencercreer/code-quiz",
-        "github": {
-            "name": " code-quiz",
-            "link": "https://github.com/spencercreer/code-quiz",
-            "icon": "fa fa-github link-git"
-        },
-        "tags": ["MySQL", "Sequelize", "JavaScript"]
-      },
-      {
         "id": 8,
         "title": "Savvy",
         "src": "./assets/img/savvy.gif",
@@ -109,6 +109,6 @@
             "link": "https://github.com/Jason-Jorgensen/Budget-App",
             "icon": "fa fa-github link-git"
         },
-        "tags": ["MongoDB", "Mongoose", "React"]
+        "tags": ["MongoDB", "Mongoose", "React", "JavaScript", "HTML", "CSS"]
       }
 ]
