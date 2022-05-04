@@ -44,7 +44,7 @@
       {
         "id": 4,
         "title": "Weather GraphQL",
-        "src": "./assets/img/weather_dashboard.PNG",
+        "src": "./assets/img/weather-dashboard.gif",
         "alt": "GraphQL weather application.",
         "description": "A React weather application that calls the OpenWeather API using GraphQL and displays a current and five-day forecast for a searched city.",
         "url": "https://explore-weather-graphql.herokuapp.com/",
@@ -53,7 +53,7 @@
             "link": "https://github.com/spencercreer/weather_graphql",
             "icon": "fa fa-github link-git"
         },
-        "tags": ["API", "GraphQL", "React"]
+        "tags": ["API", "GraphQL", "React", "Bootstrap", "CSS", "JavaScript", "HTML"]
       },
       {
         "id": 5,
