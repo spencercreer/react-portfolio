@@ -1,6 +1,20 @@
 [
     {
-        "id": 1,
+      "id": 1,
+      "title": "quizbase",
+      "src": "./assets/img/JavaScript_Quiz.gif",
+      "alt": "Gif of the code quiz application.",
+      "description": "QuizBase is full-stack application for creating, storing, and sharing coding quizzes. Test your knowledge of coding languages and computer science by attempting others quizzes and see if you can top the high scores list.",
+      "url": "https://qb-quizbase.herokuapp.com/",
+      "github": {
+          "name": " quizbase",
+          "link": "https://github.com/spencercreer/quizbase",
+          "icon": "fa fa-github link-git"
+      },
+      "tags": ["MySQL", "Sequelize", "JavaScript", "CSS", "HTML", "API", "RestAPI", "passport", "Auth"]
+    },
+    {
+        "id": 2,
       "title": "Math.random",
       "src": "./assets/img/math_random.gif",
       "alt": "Gif of Math.random application.",
@@ -14,7 +28,7 @@
       "tags": ["JavaScript", "CSS", "React"]
       },
       {
-        "id": 2,
+        "id": 3,
         "title": "MVC Burgers",
         "src": "./assets/img/burger.gif",
         "alt": "Gif of MVC Burgers application.",
@@ -28,7 +42,7 @@
         "tags": ["SQL", "ORM"]
       },
       {
-        "id": 3,
+        "id": 4,
         "title": "Weather GraphQL",
         "src": "./assets/img/weather_dashboard.PNG",
         "alt": "GraphQL weather application.",
@@ -42,7 +56,7 @@
         "tags": ["API", "GraphQL", "React"]
       },
       {
-        "id": 4,
+        "id": 5,
         "title": "Velocity",
         "src": "./assets/img/velocity.gif",
         "alt": "Gif of Velocity application.",
@@ -56,7 +70,7 @@
         "tags": ["API", "SQL", "Handlebars"]
       },
       {
-        "id": 5,
+        "id": 6,
         "title": "Decider Diner",
         "src": "./assets/img/decider_diner.gif",
         "alt": "Gif of Decider Diner application.",
@@ -68,20 +82,6 @@
             "icon": "fa fa-github link-git"
         },
         "tags": ["API", "Bootstrap", "JavaScript"]
-      },
-      {
-        "id": 6,
-        "title": "quizbase",
-        "src": "./assets/img/JavaScript_Quiz.gif",
-        "alt": "Gif of the code quiz application.",
-        "description": "To test coding concepts, I created a coding quiz. The quiz presents coding questions from a shuffled array and stores the user's score to local storage.",
-        "url": "https://qb-quizbase.herokuapp.com/",
-        "github": {
-            "name": " quizbase",
-            "link": "https://github.com/spencercreer/quizbase",
-            "icon": "fa fa-github link-git"
-        },
-        "tags": ["MySQL", "Sequelize", "JavaScript", "CSS", "HTML", "API", "RestAPI"]
       },
       {
         "id": 7,
