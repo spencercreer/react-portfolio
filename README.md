@@ -12,9 +12,9 @@ This portfolio web application contains home, biography, portfolio, and resume w
 * [Contact](#contact)
 
 ## Links
-Published URL: [https://spencercreer.github.io/portfolio/](https://spencercreer.github.io/portfolio/)
+Published URL: [https://spencercreer.github.io/portfolio/](https://spencercreer.github.io/react-portfolio/)
 
-Repository: [https://github.com/spencercreer/portfolio](https://github.com/spencercreer/portfolio)
+Repository: [https://github.com/spencercreer/portfolio](https://github.com/spencercreer/react-portfolio)
 
 ## Images
 
