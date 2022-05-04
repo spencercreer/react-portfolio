@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { Jumbotron, Container, CardDeck, Card } from 'react-bootstrap';
 import PortfolioNav from "../../components/PortfolioNav/PortfolioNav";
 import Footer from "../../components/Footer/Footer";
-import engCards from "../../eng-cards.json";
+import engCards from "../../utils/eng-cards.json";
 
 
 export default class Engineering extends Component {

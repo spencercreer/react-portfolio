@@ -5,7 +5,7 @@ import PortfolioNav from "../../components/PortfolioNav/PortfolioNav";
 import Intro from "../../components/Intro/Intro";
 import IntroCard from "../../components/IntroCard/IntroCard";
 import Footer from "../../components/Footer/Footer";
-import introCards from "../../intro-cards.json";
+import introCards from "../../utils/intro-cards.json";
 import "./style.css";
 
 export default class Home extends Component {

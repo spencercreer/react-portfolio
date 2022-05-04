@@ -4,7 +4,7 @@ import PortfolioNav from "../../components/PortfolioNav/PortfolioNav";
 import PortfolioCard from "../../components/PortfolioCard/PortfolioCard";
 import SearchInput from '../../components/SearchInput/SearchInput';
 import Footer from "../../components/Footer/Footer";
-import devCards from "../../web-dev-cards.json"
+import devCards from "../../utils/web-dev-cards.json"
 
 const cards = devCards
 
