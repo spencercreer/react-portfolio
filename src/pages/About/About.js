@@ -22,7 +22,7 @@ export default function About() {
                             </p>
                             <p className="lead">I have spent the majority of my professional career in business and sales roles. From 2014 to 2018, I worked as a sales manager for New Star Communications, a DirecTv dealer. I was the 2014 rookie sales representative of the year and later led top-performing sales teams in Texas, Missouri, and Ohio. After graduating from BYU, I have combined my sales and engineering background in multiple technical sales roles. I currently work as a Sales Engineer for Moxtek, Inc, a manufacturer of advanced nano-optical and X-ray components.
                             </p>
-                            <p className="lead">In December 2018, I married my best friend and wife Lyndsey in Gilbert, Arizona. Lyndsey graduated from BYU with a bachelor's of Arts in Philosophy and a minor in logic. She will be going to law school to become a county attorney. We enjoy cooking, exercising, and being outdoors together.
+                            <p className="lead">In December 2018, I married my best friend and wife Lyndsey in Gilbert, Arizona. Lyndsey graduated from BYU with a bachelor's of Arts in Philosophy and a minor in logic. She is currently studying law at the Sandra Day O'Connor College of Law to become a county attorney. We enjoy cooking, exercising, and being outdoors together.
                             </p>
                         </div>
                     </Col>

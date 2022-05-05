@@ -21,7 +21,7 @@ export default function Resume() {
                         <img id="profile-picture" className="rounded-circle col-md-3 mb-2 p-0 contact-image d-none d-md-block" src="./assets/img/headshot.jpg" alt="Spencer Creer headshot." />
                     </div>
                         <h2 className="resume-heading">Overview</h2>
-                        <p>Full-stack web developer highly proficient in JavaScript, jQuery, Express, Node.js, MySQL, and React. Mechanical engineer with a passion for product design and development. Top performing sales engineer with sales experience in the x-ray spectrometry, aerospace, devense, and medical industries. Proven buisness leader with excellent communication and team working skills</p>
+                        <p>Full-stack software developer and mechanical engineer experienced in creating MERN applications that display data in a useful and efficient way. Lead developer on multiple agile software teams including FR8Star and Currency Pay. Experienced with server and database technologies including Node.js, Express, GraphQL, MySQL, and MongoDB. Top performing sales manager with excellent communication and team working skills.</p>
                         <h2 className="resume-heading">Professional Experience</h2>
                         <div className="row">
                             <i className="col-md-6 mb-0">Sandhills Global, Scottsdale, AZ</i>
@@ -29,9 +29,18 @@ export default function Resume() {
                         </div>
                         <p className="mb-0"><strong>Software Developer</strong></p>
                         <ul>
-                            <li>Software developer for logistics and E-commerce development</li>
-                            <li>Full-stack developer for the FR8Star application</li>
-                            <li>Highly proficient in React JavaScript, Sequelize, and SQL</li>
+                            <li>Migrate the Currency API from DocuSign legacy authentication to JWT OAuth2.0</li>
+                            <li>Redesign the FR8Star user profile page using JavaScript, React, MobX, and PostgreSQL</li>
+                            <li>Develop WinApp and MVC applications using C# and .NET framework</li>
+                        </ul>
+                        <div className="row">
+                            <i className="col-md-6 mb-0">Trilogy Education Services, Tempe, AZ</i>
+                            <i className="col-md-6 mb-0 align-left-sm align-right-lg">November 2021 to current</i>
+                        </div>
+                        <p className="mb-0"><strong>Senior Full-Stack Development Tutor</strong></p>
+                        <ul>
+                            <li>Tutor students in programming technologies JavaScript, Node.js, Express, SQL, and React</li>
+                            <li>Conduct over 400 hours of tutor sessions debugging code and teaching best coding practices</li>
                         </ul>
                         <div className="row">
                             <i className="col-md-6 mb-0">Moxtek Inc., Orem, UT</i>
