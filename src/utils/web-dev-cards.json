@@ -2,7 +2,7 @@
     {
       "id": 1,
       "title": "Hello Worlds!",
-      "src": "hello_worlds.png",
+      "src": "./assets/img/hello_worlds.png",
       "alt": "Gif of the Hello Worlds! application.",
       "description": "A 3D model of the solar system built with React-three-fiber.",
       "url": "https://spencercreer.github.io/3DMe/",
