@@ -2,16 +2,16 @@
     {
       "id": 1,
       "title": "Hello Worlds!",
-      "src": "",
+      "src": "hello_worlds.png",
       "alt": "Gif of the Hello Worlds! application.",
       "description": "A 3D model of the solar system built with React-three-fiber.",
       "url": "https://spencercreer.github.io/3DMe/",
       "github": {
-          "name": " quizbase",
+          "name": " 3DMe",
           "link": "https://github.com/spencercreer/3DMe",
           "icon": "fa fa-github link-git"
       },
-      "tags": ["three.js", "React", "react-three-fiber", "JavaScript", "API"]
+      "tags": ["three.js", "React", "react-three-fiber", "JavaScript", "TypeScript", "API"]
     },
     {
       "id": 2,
