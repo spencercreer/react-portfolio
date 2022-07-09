@@ -1,6 +1,20 @@
 [
     {
       "id": 1,
+      "title": "Hello Worlds!",
+      "src": "",
+      "alt": "Gif of the Hello Worlds! application.",
+      "description": "A 3D model of the solar system built with React-three-fiber.",
+      "url": "https://spencercreer.github.io/3DMe/",
+      "github": {
+          "name": " quizbase",
+          "link": "https://github.com/spencercreer/3DMe",
+          "icon": "fa fa-github link-git"
+      },
+      "tags": ["three.js", "React", "react-three-fiber", "JavaScript", "API"]
+    },
+    {
+      "id": 2,
       "title": "quizbase",
       "src": "./assets/img/JavaScript_Quiz.gif",
       "alt": "Gif of the code quiz application.",
@@ -14,7 +28,7 @@
       "tags": ["MySQL", "Sequelize", "JavaScript", "CSS", "HTML", "API", "RestAPI", "passport", "Auth"]
     },
     {
-        "id": 2,
+        "id": 3,
       "title": "Math.random",
       "src": "./assets/img/math_random.gif",
       "alt": "Gif of Math.random application.",
@@ -28,7 +42,7 @@
       "tags": ["JavaScript", "CSS", "React"]
       },
       {
-        "id": 3,
+        "id": 4,
         "title": "Weather GraphQL",
         "src": "./assets/img/weather-dashboard.gif",
         "alt": "GraphQL weather application.",
@@ -42,7 +56,7 @@
         "tags": ["API", "GraphQL", "React", "Bootstrap", "CSS", "JavaScript", "HTML"]
       },
       {
-        "id": 4,
+        "id": 5,
         "title": "MVC Burgers",
         "src": "./assets/img/burger.gif",
         "alt": "Gif of MVC Burgers application.",
@@ -56,7 +70,7 @@
         "tags": ["SQL", "ORM"]
       },
       {
-        "id": 5,
+        "id": 6,
         "title": "Velocity",
         "src": "./assets/img/velocity.gif",
         "alt": "Gif of Velocity application.",
@@ -70,7 +84,7 @@
         "tags": ["API", "SQL", "Handlebars"]
       },
       {
-        "id": 6,
+        "id": 7,
         "title": "Decider Diner",
         "src": "./assets/img/decider_diner.gif",
         "alt": "Gif of Decider Diner application.",
@@ -84,7 +98,7 @@
         "tags": ["API", "Bootstrap", "JavaScript"]
       },
       {
-        "id": 7,
+        "id": 8,
         "title": "Day Planner",
         "src": "./assets/img/day_planner.gif",
         "alt": "Gif of the day planner application.",
@@ -98,7 +112,7 @@
         "tags": ["LocalStorage", "jQuery", "CSS"]
       },
       {
-        "id": 8,
+        "id": 9,
         "title": "Savvy",
         "src": "./assets/img/savvy.gif",
         "alt": "Gif of the Savvy Budget application.",
